@@ -12,8 +12,12 @@
 }
 @font-face {
   font-family: "Altron";
-  src: url("fonts/AltronedtrialRegular-E4pYl.otf");
+  src: url("assets/fonts/AltronedtrialRegular-E4pYl.otf");
 }
+nav a {
+  font-family: "Altron";
+}
+
 h3 {
   font-family: "Grave";
   padding: 2%;

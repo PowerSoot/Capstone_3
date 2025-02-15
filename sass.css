@@ -1,10 +1,10 @@
 @font-face {
-  font-family: "CERD";
-  src: url("Fonts/AnkhSanctuary-PVK0B.ttf");
+  font-family: "Grave";
+  src: url("assets/fonts/Gravedigger-8BOZ.ttf");
 }
 @font-face {
-  font-family: "CERD1";
-  src: url("Fonts/CeniosroundedExtruderightDemo-drvpR.otf");
+  font-family: "Altron";
+  src: url("assets/fonts/AltronedtrialRegular-E4pYl.otf");
 }
 html {
   border: 3px solid blue;
@@ -22,10 +22,11 @@ body {
 }
 
 nav {
+  font-family: "Grave";
   border: 2px dotted rgb(214, 125, 115);
   font-size: 23px;
   background-color: black;
-  padding: 1px 1px 1px 1px;
+  padding: 10px 1px 1px 10px;
   text-shadow: 2px 1px 1px red;
 }
 
@@ -35,9 +36,11 @@ nav {
 }
 
 nav a {
-  border: 4px solid rgb(28, 46, 28);
-  color: rgba(255, 255, 255, 0.647) !important;
-  text-shadow: 1px 1px 1px red;
+  border: 4px solid rgba(199, 248, 20, 0.226);
+  padding: 2px 2px 2px 2px;
+  color: rgba(219, 72, 72, 0.647) !important;
+  text-shadow: 4px 1px 1px red;
+  box-shadow: 1px 1px 1px red;
   text-decoration: none;
   background-image: linear-gradient(linear-gradient(black, rgb(7, 8, 8), rgb(238, 225, 209)));
 }

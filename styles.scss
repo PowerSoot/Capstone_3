@@ -18,12 +18,14 @@ $font5: "Altron";
   src: url("fonts/Gravedigger-8BOZ.ttf");
 }
 
-
 @font-face {
   font-family: "Altron";
-  src: url("fonts/AltronedtrialRegular-E4pYl.otf");
+  src: url("assets/fonts/AltronedtrialRegular-E4pYl.otf");
 }
 
+nav a {
+  font-family: $font5;
+}
 h3 {
   font-family: $font3;
   padding: 2%;
@@ -89,7 +91,11 @@ button {
   box-shadow: 3px 0px red;
   border-radius: 8px;
   border: 3px solid rgb(187, 50, 205);
-  background-image: linear-gradient(rgb(170, 118, 131), rgb(81, 235, 20), rgb(202, 167, 12));
+  background-image: linear-gradient(
+    rgb(170, 118, 131),
+    rgb(81, 235, 20),
+    rgb(202, 167, 12)
+  );
 }
 
 input {
@@ -102,12 +108,15 @@ input {
   box-shadow: 3px 0px red;
   border-radius: 8px;
   border: 7px solid rgb(14, 121, 33);
-  background-image: linear-gradient(rgb(170, 118, 131), rgba(81, 235, 20, 0.534), rgb(202, 167, 12));
+  background-image: linear-gradient(
+    rgb(170, 118, 131),
+    rgba(81, 235, 20, 0.534),
+    rgb(202, 167, 12)
+  );
 }
 
 .radius {
   border-radius: 8px;
-
 }
 
 .duh {
@@ -119,7 +128,12 @@ input {
   box-shadow: 3px 0px red;
   border-radius: 8px;
   border: 3px solid yellowgreen;
-  background-image: linear-gradient(to left, rgb(253, 0, 63), rgb(63, 0, 60), teal);
+  background-image: linear-gradient(
+    to left,
+    rgb(253, 0, 63),
+    rgb(63, 0, 60),
+    teal
+  );
 }
 
 output {
@@ -142,5 +156,10 @@ output {
   box-shadow: 3px 0px red;
   border-radius: 8px;
   border: 3px solid yellowgreen;
-  background-image: linear-gradient(to left, rgb(253, 0, 63), rgb(63, 0, 60), teal);
+  background-image: linear-gradient(
+    to left,
+    rgb(253, 0, 63),
+    rgb(63, 0, 60),
+    teal
+  );
 }
