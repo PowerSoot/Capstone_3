@@ -29,7 +29,7 @@ export function Home() {
             </div>
           </div>
         </div>
-        <h2> </h2>
+        <h2> This is home</h2>
       </main>
     </>
   );
