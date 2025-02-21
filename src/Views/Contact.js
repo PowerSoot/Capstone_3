@@ -13,10 +13,6 @@ export function Contact() {
       <br />
       <main>
         <h2>We would love to hear from you!</h2>
-        <p>
-          Need to speak to us? Fill out the form below to schedule an
-          appointment to talk to one of our team members.
-        </p>
 
         <form onsubmit="handleSubmit(event)">
           <label for="name">Name:</label>

@@ -5,15 +5,15 @@ export function Home() {
   return (
     <>
       <header>
-        {<img src=" ss.ico" />}
-
         <Navbar />
       </header>
       <div>
         <main className="container">
           <article className="border border-5">
-            <h3 className="text-center">WELCOME TO PARADISE PARKERS</h3>
-            <p className="text-info text-center"></p>
+            <h3 className="text-center text-info">
+              WELCOME TO PARADISE PARKERS
+            </h3>
+            <p className="text-info text-center">Best Space Place</p>
             <p className="text-info text-center"></p>
             <div className="row">
               <div className="col bg-black">
@@ -47,15 +47,17 @@ export function Home() {
               </div>
             </div>
             <br />
-            <h2>Why Choose Us?</h2>
+            <h2 className="text-center">Why Choose Us?</h2>
 
             <br />
             <ul className="list-group">
               <li className="list-group-items">
                 <span1>Security:</span1>
+                The Newest in Security Tech
               </li>
               <li className="list-group-items">
-                <span1>Premium Facilities:</span1>
+                <span1>Premium Facilities:</span1>ndoor, outdoor, and
+                climate-controlled environments ensure optimal protection.
               </li>
               <li className="list-group-items">
                 <span1>Customer Care:</span1>
@@ -74,7 +76,7 @@ export function Home() {
             {
               <img
                 className="card-img-top"
-                width="50px"
+                width={50}
                 height={211}
                 src="assets/images/7.png"
               />
