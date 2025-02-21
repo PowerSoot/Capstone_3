@@ -5,6 +5,7 @@ export function Contact() {
   return (
     <>
       <header>
+        {<img src=" assets\images\header1_cr4.png" />}
         <Navbar />
       </header>
       <h1>Contact Us</h1>

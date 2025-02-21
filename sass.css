@@ -68,14 +68,6 @@ main {
   border: 2px solid limegreen;
 }
 
-main {
-  background-image: linear-gradient(rgba(255, 132, 105, 0.623), rgb(238, 199, 144));
-  border: solid 3px rgb(245, 31, 84);
-  padding: 1px 0px 1px 0px;
-  /*   margin: -1px 20px 3px 17px; */
-  opacity: 90%;
-}
-
 p.cardDesc1 {
   margin: 12px 12px 12px 12px;
   padding: 12px 12px 12px 12px;
