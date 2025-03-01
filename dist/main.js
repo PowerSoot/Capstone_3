@@ -2631,7 +2631,7 @@ __webpack_require__.r(__webpack_exports__);
 
 function Navbar() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("nav", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
-    src: "..\\assets\\images\\header1_cr4.png",
+    src: "assets\\images\\header1_cr4.png",
     alt: "parking"
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_router__WEBPACK_IMPORTED_MODULE_1__.Link, {
     to: "/home"
@@ -12432,6 +12432,9 @@ root.render(/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElem
   element: /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(_Views_Home__WEBPACK_IMPORTED_MODULE_2__.Home, null)
 }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(react_router__WEBPACK_IMPORTED_MODULE_5__.Route, {
   path: "/home",
+  element: /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(_Views_Home__WEBPACK_IMPORTED_MODULE_2__.Home, null)
+}), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(react_router__WEBPACK_IMPORTED_MODULE_5__.Route, {
+  path: "/Capstone_3",
   element: /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(_Views_Home__WEBPACK_IMPORTED_MODULE_2__.Home, null)
 }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(react_router__WEBPACK_IMPORTED_MODULE_5__.Route, {
   path: "/about",
