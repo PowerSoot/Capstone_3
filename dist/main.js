@@ -2014,7 +2014,392 @@ __webpack_require__.r(__webpack_exports__);
 
 
 function About() {
-  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement((react__WEBPACK_IMPORTED_MODULE_0___default().Fragment), null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("header", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_Navbar__WEBPACK_IMPORTED_MODULE_1__.Navbar, null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("main", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", null, "This is about")));
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement((react__WEBPACK_IMPORTED_MODULE_0___default().Fragment), null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("header", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_Navbar__WEBPACK_IMPORTED_MODULE_1__.Navbar, null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("main", {
+    className: "ps-1 pe-2 mt-0",
+    style: {
+      boxShadow: "31px 3px 3px rgb(8, 66, 95)"
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", {
+    className: "pt-3 text-end",
+    style: {
+      fontFamily: '"Cursive"',
+      textShadow: "2px 2px 12px fuchsia",
+      fontSize: 55,
+      boxShadow: "12px 31px 3px rgb(8, 66, 95)"
+    }
+  }, "Smart Spot, Sto & GO with Paradise Parkers"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("pre", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    style: {
+      display: "inline"
+    }
+  }, "\u2734STO & GO\u2734\u2734STO & GO\u2734\u2734STO & GO\u2734\u2734STO & GO\u2734\u2734STO & GO\u2734\u2734STO & GO\u2734\u2734STO & GO\u2734\u2734STO & GO\u2734\u2734STO & GO\u2734\u2734STO & GO\u2734\u2734STO & GO\u2734\u2734STO & GO\u2734\u2734STO & GO\u2734\u2734STO & GO\u2734\u2734STO & GO\u2734\u2734STO & GO\u2734\u2734STO & GO\u2734")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "row border-3 border bg-dark"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "col bg-dark text-shadow"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "card pt-3",
+    style: {
+      backgroundColor: "#58caff6c"
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", {
+    className: "p-2 text-start box-shadow: 31px 3px 3px rgb(8, 66, 95)",
+    style: {
+      fontFamily: "Overmind",
+      fontSize: 39,
+      textShadow: "2px 77px 2px rgb(58, 138, 175)",
+      marginBottom: "1%",
+      color: "#f4fcf4"
+    }
+  }, "Best SPace Place"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h4", {
+    className: "card-title text-end m-1",
+    style: {
+      padding: "1%",
+      opacity: "40%",
+      fontFamily: "fantasy",
+      fontSize: 37,
+      backgroundColor: "#f4e4ff",
+      textShadow: "2px 2px 2px rgba(84, 233, 47, 0.897)"
+    }
+  }, "DAY AND NIGHT PARKING"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "row"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "col"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "card",
+    style: {
+      backgroundColor: "#e8e2ec"
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", {
+    className: "card-title",
+    style: {
+      color: "#ca8bf5"
+    }
+  }, "Paradise Spot 1112"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+    className: "card-text",
+    style: {
+      color: "#e2b72bcb"
+    }
+  }, "Indoor and outdoor parking spaces for your convenience."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+    className: "card-text"
+  }, "Premium Facilities: Indoor, outdoor, and climate-controlled environments ensure optimal protection."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "24/7 Customer Service: Our dedicated team is available round the clock to address your needs."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", {
+    className: "card-title",
+    style: {
+      color: "#ca8bf5"
+    }
+  }, "Paradise Spot 3"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "Security Measures: State-of-the-art security systems provide peace of mind."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "Convenience: Easy access to your vehicle with a convenient location."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "Security Measures: State-of-the-art security systems provide peace of mind."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "Convenience: Easy access to your vehicle with a convenient location."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "card-body",
+    style: {
+      paddingRight: 10,
+      backgroundColor: "#353a836c",
+      boxShadow: "31px 3px 3px rgb(8, 66, 95)"
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h5", {
+    className: "card-title p-4",
+    style: {
+      paddingTop: "2%",
+      opacity: "40%",
+      fontFamily: "fantasy",
+      fontSize: 30,
+      backgroundColor: "#f4e4ff",
+      textShadow: "2px 2px 2px rgba(59, 75, 148, 0.897)"
+    }
+  }, "EASY PARK & GO LANES"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("ul", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", null, "Enjoy added perks like valet service, reserved spots, and loyalty rewards."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", null, "Residential and commercial spaces available.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "Convenience: Easy access to your vehicle with a convenient location."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "Security Measures: State-of-the-art security systems provide peace of mind."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
+    height: "388px",
+    width: "388px",
+    src: "capstone2's\\Images\\constCard1.png",
+    alt: "Covered Parking Garage",
+    style: {
+      paddingLeft: 10
+    }
+  })))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "col"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "card mixItTwo"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
+    src: "capstone2's\\Images\\4.png",
+    className: "card-img-top",
+    alt: "Covered Parking Garage",
+    style: {
+      paddingRight: 10
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "card-body border-4 border-primary",
+    style: {
+      backgroundImage: "linear-gradient(rgba(116, 185, 176, 0.205), rgba(116, 185, 176, 0.205))"
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h3", null, "EXPRESS LANES FOR:"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h5", {
+    className: "card-title text-center m-1 container",
+    style: {
+      padding: "1%",
+      opacity: "80%",
+      fontFamily: "fantasy",
+      fontSize: 30,
+      textShadow: "2px 2px 2px rgba(84, 233, 47, 0.897)"
+    }
+  }, "Cars, Trucks,SUVs, Vans, Motorhomes and RVs AND MORE"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+    href: "cat.html"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("span", {
+    className: "btn btn-lg border-black border-5 bg-dark",
+    style: {
+      color: "#ca8bf5"
+    }
+  }, "INDOOR")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+    className: "p-3",
+    href: "cat.html"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("span", {
+    className: "btn btn-lg border-black border-5 bg-dark",
+    style: {
+      color: "#ca8bf5"
+    }
+  }, "VALET")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+    href: "cat.html"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("span", {
+    className: "btn btn-lg border-black border-5 bg-dark",
+    style: {
+      color: "#ca8bf5"
+    }
+  }, "OUTDOOR")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+    className: "me-3",
+    href: "cat.html"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("span", {
+    className: "btn btn-sm border-black border-5 bg-dark",
+    style: {
+      backgroundImage: "linear-gradient(to right, rgb(7, 27, 44), rgb(58, 138, 175), rgb(41, 76, 105))",
+      color: "#ca8bf5",
+      textShadow: "2px 2px 2px rgba(2, 1, 5, 0.959)"
+    }
+  }, "CLIMATE-CONTROLLED")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+    href: "cat.html"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("span", {
+    className: "btn btn-sm border-black border-5 bg-dark",
+    style: {
+      backgroundImage: "linear-gradient(to right, rgb(7, 27, 44), rgb(58, 138, 175), rgb(41, 76, 105))",
+      color: "#ca8bf5",
+      textShadow: "2px 2px 2px rgba(24, 14, 53, 0.959)"
+    }
+  }, "SHORT TERM")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+    href: "cat.html"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("span", {
+    className: "btn btn-sm border-black border-5 bg-dark",
+    style: {
+      backgroundImage: "linear-gradient(to right, rgb(7, 27, 44), rgb(58, 138, 175), rgb(41, 76, 105))",
+      color: "#ca8bf5",
+      textShadow: "2px 2px 2px rgba(24, 14, 53, 0.959)"
+    }
+  }, "LONG TERM"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+    href: "cat.html",
+    className: "p-0 text-center"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("span", {
+    className: "btn btn-lg border-black border-5 bg-dark",
+    style: {
+      color: "#ca8bf5"
+    }
+  }, "FUELING AND HANGAR SERVICES FOR AIRCRAFT")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+    className: "p-0 text-center",
+    href: "cat.html"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("span", {
+    className: "btn btn-lg border-black border-5 bg-dark",
+    style: {
+      color: "#ca8bf5"
+    }
+  }, "WINTERIZE BOATS")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+    href: "cat.html",
+    className: "p-0 text-center"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("span", {
+    className: "btn btn-lg border-black border-5 bg-dark",
+    style: {
+      color: "#ca8bf5"
+    }
+  }, "MARIANA ISLAND NOW AT PARADISE")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "Convenience: Easy access to your vehicle with a convenient location."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+    className: "text-center"
+  }, "Security Measures: State-of-the-art security systems"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+    className: "text-center"
+  }, "Premium Facilities: Indoor, outdoor, and climate-controlled environments"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+    className: "card-text text-center"
+  }, "24/7 surveillance and easy access to your vehicle."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "col container",
+    style: {
+      backgroundImage: "linear-gradient(to right, rgb(7, 62, 107), rgb(58, 138, 175), rgb(41, 76, 105))"
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", null, "Join our mailing list!"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("form", {
+    onsubmit: "handleSubmit1(event)"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("ul", {
+    className: "list-group m-3 p-4 fs-5",
+    style: {
+      borderRadius: 20,
+      borderTop: "5px solid #8f46c0",
+      borderBottom: "6px solid #ca8bf5"
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", {
+    className: "container list-group-item text-primary bg-dark border-dashed border-dark",
+    style: {
+      backgroundImage: "linear-gradient(to right, rgb(7, 62, 107), rgb(58, 138, 175), rgb(41, 76, 105))"
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("label", {
+    htmlFor: "name"
+  }, "Name:"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", {
+    className: "container list-group-item text-primary bg-dark border-dashed border-dark",
+    style: {
+      backgroundImage: "linear-gradient(to right, rgb(7, 62, 107), rgb(58, 138, 175), rgb(41, 76, 105))"
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("input", {
+    required: true,
+    type: "text",
+    name: "name",
+    id: "name",
+    placeholder: "Enter your name"
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", {
+    className: "container list-group-item text-primary bg-dark border-dashed border-dark",
+    style: {
+      backgroundImage: "linear-gradient(to right, rgb(7, 62, 107), rgb(58, 138, 175), rgb(41, 76, 105))"
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("label", {
+    htmlFor: "email"
+  }, "Email:"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", {
+    className: "container list-group-item text-primary bg-dark border-dashed border-dark",
+    style: {
+      backgroundImage: "linear-gradient(to right, rgb(7, 62, 107), rgb(58, 138, 175), rgb(41, 76, 105))"
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("input", {
+    required: true,
+    type: "email",
+    id: "email",
+    placeholder: "example@email.com"
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", {
+    className: "container list-group-item text-primary bg-dark border-dashed border-dark",
+    style: {
+      backgroundImage: "linear-gradient(to right, rgb(7, 62, 107), rgb(58, 138, 175), rgb(41, 76, 105))"
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("label", {
+    htmlFor: "comments"
+  }, "Comments:"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", {
+    className: "container list-group-item text-primary bg-dark border-dashed border-dark"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("textarea", {
+    id: "comments",
+    defaultValue: ""
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", {
+    className: "container list-group-item text-primary bg-dark border-dashed border-dark"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("button", {
+    type: "submit",
+    className: "btn btn-sm btn-primary",
+    id: "button-shadow"
+  }, "Submit"))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    id: "outputTag"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "col border-1 border-primary bg-dark"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", {
+    className: "mixItTwo pt-2 text-start text-light"
+  }, "We've got you covered whatever you need"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "card",
+    style: {
+      backgroundColor: "#e8e2ec"
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "card-body",
+    style: {
+      backgroundImage: "linear-gradient(to bottom, rgba(13, 89, 189, 0.596), rgba(33, 47, 61, 0.596))"
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", {
+    className: "card-title",
+    style: {
+      color: "#ca8bf5"
+    }
+  }, "Paradise Spot 3"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h5", {
+    className: "card-title"
+  }, "Paradise Spot 3"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "Garage parking with 24/7 surveillance and premium security features."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+    className: "card-text",
+    style: {
+      color: "#e2b72bcb",
+      fontSize: "larger",
+      textShadow: "orangered 2px 2px 2px",
+      textAlign: "center"
+    }
+  }, "Indoor and outdoor parking."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "row g-2"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "col"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "card"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", {
+    className: "card-title"
+  }, "Paradise Spot 2")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "card-body",
+    style: {
+      backgroundImage: "linear-gradient(to right, rgb(7, 27, 44), rgb(58, 138, 175), rgb(41, 76, 105))"
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("ul", {
+    className: "list-group"
+  }, "Paradise Spot 1"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", {
+    className: "list-group-item"
+  }, "Indoor parking with climate control and 24/7 surveillance."))))))))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "card-body",
+    style: {
+      backgroundImage: "linear-gradient(to right, rgb(7, 62, 107), rgb(58, 138, 175), rgb(41, 76, 105))"
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", {
+    className: "card-title",
+    style: {
+      color: "#ca8bf5"
+    }
+  }, "Paradise Spot 2"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+    className: "card-text",
+    style: {
+      color: "#e2b72bcb"
+    }
+  }, "Indoor and outdoor parking spaces for your convenience."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+    className: "card-text"
+  }, "Premium Facilities: Indoor, outdoor, and climate-controlled environments ensure optimal protection."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "24/7 Customer Service: Our dedicated team is available round the clock to address your needs."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "Security Measures: State-of-the-art security systems provide peace of mind."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "Convenience: Easy access to your vehicle with a convenient location."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+    href: "cat.html"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("span", {
+    className: "btn btn-sm border-black border-5 bg-dark",
+    style: {
+      color: "#ca8bf5"
+    }
+  }, "INDOOR/OUTDOOR"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("article", {
+    className: "p-3"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "Indoor and outdoor parking spaces for your convenience."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "Premium Facilities: Indoor, outdoor, and climate-controlled environments ensure optimal protection."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "24/7 Customer Service: Our dedicated team is available round the clock to address your needs."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "Security Measures: State-of-the-art security systems provide peace of mind."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "Convenience: Easy access to your vehicle with a convenient location.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", {
+    className: "mixIt text-light text-center"
+  }, "Heading in your direction!")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", null, "Rate this parking space!"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("form", {
+    className: "container text-center",
+    style: {
+      marginTop: 20
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("input", {
+    id: "mad-face",
+    type: "radio",
+    name: "rating"
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("label", {
+    htmlFor: "mad-face",
+    style: {
+      fontSize: 30
+    }
+  }, "\uD83D\uDE21")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("input", {
+    id: "sad-face",
+    type: "radio",
+    name: "rating"
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("label", {
+    htmlFor: "sad-face",
+    style: {
+      fontSize: 30
+    }
+  }, "\uD83D\uDE1F")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("input", {
+    id: "happy-face",
+    type: "radio",
+    name: "rating"
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("label", {
+    htmlFor: "happy-face",
+    style: {
+      fontSize: 30
+    }
+  }, "\uD83D\uDE0A")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("input", {
+    id: "really-happy-face",
+    type: "radio",
+    name: "rating"
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("label", {
+    htmlFor: "really-happy-face",
+    style: {
+      fontSize: 30
+    }
+  }, "\uD83D\uDE01")))));
 }
 
 /***/ }),
@@ -2032,6 +2417,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _Navbar__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Navbar */ "./src/Views/Navbar.js");
+/* harmony import */ var _controllers_handleSubmit__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../controllers/handleSubmit */ "./src/controllers/handleSubmit.js");
+
 
 
 function Contact() {
@@ -2105,29 +2492,124 @@ __webpack_require__.r(__webpack_exports__);
 
 
 function Home() {
-  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement((react__WEBPACK_IMPORTED_MODULE_0___default().Fragment), null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("header", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_Navbar__WEBPACK_IMPORTED_MODULE_1__.Navbar, null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("main", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    class: "container"
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement((react__WEBPACK_IMPORTED_MODULE_0___default().Fragment), null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("header", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_Navbar__WEBPACK_IMPORTED_MODULE_1__.Navbar, null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("main", {
+    className: "container"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("article", {
+    className: "border border-5"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", {
+    className: "card-title text-info"
+  }, "Paradise Parking - Your Ultimate Parking Solution"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "row"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    class: "row"
+    className: "col bg-black"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", null, "VIP Rewards Plus"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("ul", {
+    className: "padding list-group"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", {
+    className: "list-group-item"
+  }, "Exclusive discounts and promotions"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", {
+    className: "list-group-item"
+  }, "Premium Parking"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", {
+    className: "list-group-item"
+  }, "Special offers and rewards"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "col bg-dark"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", null, "Aviation Services"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("ul", {
+    className: "padding list-group"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", {
+    className: "list-group-item"
+  }, "Aircraft"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", {
+    className: "list-group-item"
+  }, "Convenient fueling services"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", {
+    className: "list-group-item"
+  }, "Repair services"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "col bg-black"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", null, "Customer Care"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("ul", {
+    className: "padding list-group"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", {
+    className: "list-group-item"
+  }, "24/7 customer support"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", {
+    className: "list-group-item"
+  }, "Concierge services"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", {
+    className: "list-group-item"
+  }, "Personalized attention")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", {
+    class: "align"
+  }, "Why Choose Us?"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("ul", {
+    className: "list-group"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", {
+    className: "list-group-items"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("span1", null, "Security:"), "24/7 customer support"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", {
+    className: "list-group-items"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("span1", null, "Premium Facilities:"), "Concierge services"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", {
+    className: "list-group-items"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("span1", null, "Customer Care:"), "Personalized attention"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", {
+    className: "list-group-items"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("span1", null, "Aviation Services:")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "card"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
+    className: "card-img-top",
+    width: "50px",
+    height: 300,
+    src: "assets\\images\\4.png"
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "card-body"
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "row"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    class: "col"
+    className: "card col text-end bg-black brain text-white padding-5",
+    id: "mixin-example"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "\"Where Your Vehicle's Stay is a Joyride\"", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), "\"More than Parking, It\u2019s VIP Care\"", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), "\"Your Vehicle's Home Away from Home\"", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "Introducing \"Stow and Go Short-Term Parking\". Experience efficiency and top-notch service at any one of our parking facilities. At Paradise Parkers, our easy access lots and swift in-and-out gate access guarantees your short-term parking is stress-free. Ready to park smart and travel easy? Choose Paradise Parkers for unmatched vehicle care and convenience.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "col container"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    class: "card"
+    className: "card container"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    class: "card-body"
-  }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    class: "col"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    class: "card"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    class: "card-body"
-  }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    class: "col"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    class: "card"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    class: "card-body"
-  }))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", null, " This is home")));
+    className: "card-body bg-black"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h1", {
+    className: "text-end text-end text-info"
+  }, "INDOOR"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
+    alt: "ParkingGarage",
+    className: "card-img-top",
+    src: "assets\\images\\parkinggarage.png"
+  })))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", null, "Rate this parking space!"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("form", {
+    className: "container text-center",
+    style: {
+      marginTop: 20
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("input", {
+    id: "mad-face",
+    type: "radio",
+    name: "rating"
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("label", {
+    htmlFor: "mad-face",
+    style: {
+      fontSize: 30
+    }
+  }, "\uD83D\uDE21")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("input", {
+    id: "sad-face",
+    type: "radio",
+    name: "rating"
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("label", {
+    htmlFor: "sad-face",
+    style: {
+      fontSize: 30
+    }
+  }, "\uD83D\uDE1F")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("input", {
+    id: "happy-face",
+    type: "radio",
+    name: "rating"
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("label", {
+    htmlFor: "happy-face",
+    style: {
+      fontSize: 30
+    }
+  }, "\uD83D\uDE0A")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("input", {
+    id: "really-happy-face",
+    type: "radio",
+    name: "rating"
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("label", {
+    htmlFor: "really-happy-face",
+    style: {
+      fontSize: 30
+    }
+  }, "\uD83D\uDE01"))))));
 }
 
 /***/ }),
@@ -2148,13 +2630,54 @@ __webpack_require__.r(__webpack_exports__);
 
 
 function Navbar() {
-  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("nav", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_router__WEBPACK_IMPORTED_MODULE_1__.Link, {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("nav", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
+    src: "..\\assets\\images\\header1_cr4.png",
+    alt: "parking"
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_router__WEBPACK_IMPORTED_MODULE_1__.Link, {
     to: "/home"
   }, "Home "), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_router__WEBPACK_IMPORTED_MODULE_1__.Link, {
     to: "/about"
   }, "About "), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_router__WEBPACK_IMPORTED_MODULE_1__.Link, {
     to: "/contact"
   }, "Contact"));
+}
+
+/***/ }),
+
+/***/ "./src/controllers/handleSubmit.js":
+/*!*****************************************!*\
+  !*** ./src/controllers/handleSubmit.js ***!
+  \*****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   handleSubmit: () => (/* binding */ handleSubmit)
+/* harmony export */ });
+/* harmony import */ var _utils_output__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../utils/output */ "./src/utils/output.js");
+
+function handleSubmit(event = new Event()) {
+  event.preventDefault();
+  const inputs = event.target;
+  const name = inputs[0];
+  const email = inputs[1];
+  (0,_utils_output__WEBPACK_IMPORTED_MODULE_0__.output)(`Thank you ${name.value} for your submission. Use the code "PARTYNOW" for 25% your first booking.<br> Your discount code has also been sent to ${email.value}.`);
+}
+
+/***/ }),
+
+/***/ "./src/utils/output.js":
+/*!*****************************!*\
+  !*** ./src/utils/output.js ***!
+  \*****************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   output: () => (/* binding */ output)
+/* harmony export */ });
+function output(message = "", outputTag = "outputTag", shouldAppend = true) {
+  if (shouldAppend) window[outputTag].innerHTML += message;else window[outputTag].innerHTML = message;
 }
 
 /***/ }),
@@ -11909,9 +12432,6 @@ root.render(/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElem
   element: /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(_Views_Home__WEBPACK_IMPORTED_MODULE_2__.Home, null)
 }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(react_router__WEBPACK_IMPORTED_MODULE_5__.Route, {
   path: "/home",
-  element: /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(_Views_Home__WEBPACK_IMPORTED_MODULE_2__.Home, null)
-}), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(react_router__WEBPACK_IMPORTED_MODULE_5__.Route, {
-  path: "/Capstone_3",
   element: /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(_Views_Home__WEBPACK_IMPORTED_MODULE_2__.Home, null)
 }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(react_router__WEBPACK_IMPORTED_MODULE_5__.Route, {
   path: "/about",

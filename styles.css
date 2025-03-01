@@ -8,12 +8,25 @@
 }
 @font-face {
   font-family: "Grave";
-  src: url("fonts/Gravedigger-8BOZ.ttf");
+  src: url("/assets/fonts/OvermindDemons-GO10y.ttf");
 }
 @font-face {
   font-family: "Altron";
   src: url("assets/fonts/AltronedtrialRegular-E4pYl.otf");
 }
+.list-group-item {
+  background-image: url("assets/images/1.png");
+  background-color: rgba(252, 45, 131, 0.5);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  font-size: large;
+  opacity: 80%;
+  text-shadow: 4px 2px 4px rgb(238, 16, 16);
+}
+
 nav a {
   font-family: "Altron";
 }
@@ -50,7 +63,7 @@ p {
 
 p {
   font-family: "Altron";
-  font-size: 45px;
+  font-size: 27px;
   color: rgb(223, 192, 150);
   text-shadow: 1px 3px rgb(161, 82, 18);
   padding: 1% 1%;
@@ -83,7 +96,11 @@ button {
   box-shadow: 3px 0px red;
   border-radius: 8px;
   border: 3px solid rgb(187, 50, 205);
-  background-image: linear-gradient(rgb(170, 118, 131), rgb(81, 235, 20), rgb(202, 167, 12));
+  background-image: linear-gradient(
+    rgb(170, 118, 131),
+    rgb(81, 235, 20),
+    rgb(202, 167, 12)
+  );
 }
 
 input {
@@ -96,7 +113,11 @@ input {
   box-shadow: 3px 0px red;
   border-radius: 8px;
   border: 7px solid rgb(14, 121, 33);
-  background-image: linear-gradient(rgb(170, 118, 131), rgba(81, 235, 20, 0.534), rgb(202, 167, 12));
+  background-image: linear-gradient(
+    rgb(170, 118, 131),
+    rgba(81, 235, 20, 0.534),
+    rgb(202, 167, 12)
+  );
 }
 
 .radius {
@@ -112,7 +133,12 @@ input {
   box-shadow: 3px 0px red;
   border-radius: 8px;
   border: 3px solid yellowgreen;
-  background-image: linear-gradient(to left, rgb(253, 0, 63), rgb(63, 0, 60), teal);
+  background-image: linear-gradient(
+    to left,
+    rgb(253, 0, 63),
+    rgb(63, 0, 60),
+    teal
+  );
 }
 
 output {
@@ -135,5 +161,10 @@ output {
   box-shadow: 3px 0px red;
   border-radius: 8px;
   border: 3px solid yellowgreen;
-  background-image: linear-gradient(to left, rgb(253, 0, 63), rgb(63, 0, 60), teal);
-}/*# sourceMappingURL=styles.css.map */
+  background-image: linear-gradient(
+    to left,
+    rgb(253, 0, 63),
+    rgb(63, 0, 60),
+    teal
+  );
+} /*# sourceMappingURL=styles.css.map */

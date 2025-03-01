@@ -1,5 +1,6 @@
 import React from "react";
 import { Navbar } from "./Navbar";
+import { handleSubmit } from "../controllers/handleSubmit";
 
 export function Contact() {
   return (
