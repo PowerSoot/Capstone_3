@@ -111,35 +111,6 @@ export function Home() {
               </div>
             </div>
           </div>
-          <h2>Rate this parking space!</h2>
-          <form className="container text-center" style={{ marginTop: 20 }}>
-            <div>
-              <input id="mad-face" type="radio" name="rating" />
-              <label htmlFor="mad-face" style={{ fontSize: 30 }}>
-                😡
-              </label>
-            </div>
-            <div>
-              <input id="sad-face" type="radio" name="rating" />
-              <label htmlFor="sad-face" style={{ fontSize: 30 }}>
-                😟
-              </label>
-            </div>
-            <div>
-              <input id="happy-face" type="radio" name="rating" />
-              <label htmlFor="happy-face" style={{ fontSize: 30 }}>
-                😊
-              </label>
-            </div>
-            <div>
-              <input id="really-happy-face" type="radio" name="rating" />
-              <label htmlFor="really-happy-face" style={{ fontSize: 30 }}>
-                😁
-              </label>
-            </div>
-          </form>
-        </main>
-      </div>
     </>
   );
 }
