@@ -5,12 +5,11 @@ import { handleSubmit } from "../controllers/handleSubmit";
 export function Contact() {
   return (
     <>
-      <header>
+      
         <Navbar />
-      </header>
+      
       <h1>Contact Us</h1>
-      <div>tel: 555-555-5555 OR email 9vS6M@example.com</div>
-      <br />
+      
       <main>
         <h2>We would love to hear from you!</h2>
         <p>
